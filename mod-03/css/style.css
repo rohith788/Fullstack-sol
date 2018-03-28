@@ -1,0 +1,22 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #D26B25;
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+#logo-img {
+  background: url('../images/Logo.png') no-repeat;
+  width: 260px;
+  height: 150px;
+  margin: 0px 0px 0px 0;
+}
+
+/*.visible-md{
+	visibility: hidden;
+}
+*/

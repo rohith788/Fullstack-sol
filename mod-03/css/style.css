@@ -1,6 +1,5 @@
 body{
 	font-size: 16px;
-	color: #fff;
 	background-color: #D26B25;
 	font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
@@ -9,13 +8,21 @@ body{
   border-radius: 0;
   border: 0;
 }
-#logo-img {
-  background: url('../images/Logo.png') no-repeat;
-  width: 260px;
-  height: 150px;
-  margin: 0px 0px 0px 0;
+.container
+{
+  background-color: #e9e4a8;
+  border-width: 20px;
+  border-style: solid;
+  border-color: #D26B25;
+  padding-right: 0px;
+  margin: 0;
+  overflow: hidden;
 }
+.navbar
+{
+  background-color: black;
 
+}
 /*.visible-md{
 	visibility: hidden;
 }
